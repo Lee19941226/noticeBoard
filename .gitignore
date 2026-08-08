@@ -1,0 +1,23 @@
+# api
+## Build
+build/
+bin/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+## Gradle
+.gradle/
+
+## Eclipse
+.settings/
+.classpath
+.project
+.metadata/
+
+## IntelliJ
+.idea/
+*.iml
+
+## OS
+Thumbs.db
+.DS_Store
